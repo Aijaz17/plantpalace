@@ -1,0 +1,9 @@
+.checkform input[type="text"],input[type="number"]{
+    border: solid 2px var(--dark) !important;
+}
+.modal-body{
+    background-color: var(--light);
+}
+.vkclr{
+    border: solid 2px var(--dark) !important;
+}
